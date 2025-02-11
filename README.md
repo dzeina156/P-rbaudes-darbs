@@ -1,1 +1,1 @@
-# P-rbaudes-darbs
+Izveidoju html un js pārlūk lapu,kura veido darāmo lietu sarakstu, kurš spēj pievienot jaunus paveicamos darbus.Izpētiju funkcijas, kuras palīdzētu man izveidot šo darbu.Pievienoju tās un tagad ir iespēja pierakstī nepieciešamos darāmos darbus.
